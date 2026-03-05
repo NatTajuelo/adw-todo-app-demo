@@ -14,7 +14,7 @@ body {
     'Helvetica Neue', Arial, sans-serif;
   padding: 2rem;
   color: #333;
-  background-color: #f5f5f5;
+  background-color: #d6eaf8;
 }
 
 .app {
@@ -67,12 +67,12 @@ p {
 }
 
 .btn-primary {
-  background-color: #3498db;
+  background-color: #9b59b6;
   color: white;
 }
 
 .btn-primary:hover {
-  background-color: #2980b9;
+  background-color: #8e44ad;
 }
 
 .btn-delete {
